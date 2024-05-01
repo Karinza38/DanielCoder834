@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Daniel, and I am an aspiring computer science student 
 [![DanielCoder834's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCoder834)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoder834)](https://github.com/anuraghazra/github-readme-stats)
