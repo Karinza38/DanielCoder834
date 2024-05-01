@@ -1,5 +1,5 @@
 ### Hi there 👋
-###My name is Daniel, and I am an aspiring computer science student 
+### My name is Daniel, and I am an aspiring computer science student 
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
