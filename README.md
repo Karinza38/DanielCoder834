@@ -2,7 +2,10 @@
 My name is Daniel, and I am an aspiring computer science student 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoder834" alt="Top Langs">
-
+<script> 
+  let elements = document.getElementsByClassName("Box-sc-g0xbh4-0 eRvpKx"); 
+  elements.style.backgroundColor = "lightblue";
+</script>
 <!--
 **DanielCoder834/DanielCoder834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
