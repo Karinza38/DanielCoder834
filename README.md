@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Daniel, and I am an aspiring computer science student 
-[Coding Gif]()
+[Coding Gif](/imgs/gif.gif)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
