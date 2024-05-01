@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Daniel, and I am an aspiring computer science student 
-<img align="left" src="https://github.com/anuraghazra/github-readme-stats" alt="![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCoder834)">
+<img align="left" src="[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCoder834)](https://github.com/anuraghazra/github-readme-stats)" alt="">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoder834)](https://github.com/anuraghazra/github-readme-stats)
 
