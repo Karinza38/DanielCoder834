@@ -9,7 +9,7 @@
     <h3><i>Knowledge on Centering Divs: Unknown</i></h3>
 </div>
 
-<h2 align="center">Top 5 Projects</h2>
+<h1 align="center">Top 5 Projects</h2>
 <div align="center">
     <h3>Rust + Crossterm Text Editor</h3>
     <h3>Custom Clojure Database</h3>
@@ -18,7 +18,7 @@
     <h3>React/TSX Personal Website</h3>
 </div>
 
-<h2 align="center"> Projects In Progress </h2>
+<h1 align="center"> Projects In Progress </h2>
 <div align="center">
     <h3>Elixir Live Chat</h3>
     <h3>Rust Browser Engine</h3>
