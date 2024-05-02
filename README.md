@@ -3,7 +3,7 @@
  <ul>
   <li><i>University: Northeastern University</i></li>
   <li><i>Major: Computer Science</i></li>
-  <li><i>*Minor: Physics* </i></li>
+  <li><i>Minor: Physics</i></li>
   <li><i>Website: danielcoder.dev</i></li>
   <li><i>Knowledge on Centering Divs: Unknown</i></li>
 </ul> 
