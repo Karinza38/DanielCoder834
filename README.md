@@ -30,6 +30,7 @@
     <h3>React/TSX + Python + Golang Redis Cache => Stock Website</h3>
 </div>
 
+<hr>
 <p align="center">
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
     </p>
