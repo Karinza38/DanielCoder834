@@ -10,7 +10,7 @@
 </div>
 
 <br>
-
+<br>
 <h1 align="center">Top 5 Projects</h2>
 <div align="center">
     <h3>Rust + Crossterm Text Editor</h3>
@@ -21,7 +21,7 @@
 </div>
 
 <br>
-
+<br>
 <h1 align="center"> Projects In Progress </h2>
 <div align="center">
     <h3>Elixir Live Chat</h3>
