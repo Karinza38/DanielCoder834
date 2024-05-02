@@ -4,14 +4,11 @@
  <img style="float: right;" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
 </p>
 <div>
- <ul>
-  <li><i>University: Northeastern University</i></li>
-  <li><i>Major: Computer Science</i></li>
-  <li><i>Minor: Physics</i></li>
-  <li><i>Website: danielcoder.dev</i></li>
-  <li><i>Knowledge on Centering Divs: Unknown</i></li>
-  
-</ul> 
+  <h2><i>University: Northeastern University</i></h2>
+  <h2><i>Major: Computer Science</i></h2>
+  <h2><i>Minor: Physics</i></h2>
+  <h2><i>Website: danielcoder.dev</i></h2>
+  <h2><i>Knowledge on Centering Divs: Unknown</i></h2>
 </div>
 <hr />
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
