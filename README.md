@@ -1,19 +1,19 @@
 <h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring programmer</h1> 
 <hr />
 <div align="center"> 
-    <i>University: Northeastern University</i>
+    <h3><i>University: Northeastern University</i></h3>
     <br>
     <br>
-    <i>Major: Computer Science</i>
+    <h3><i>Major: Computer Science</i></h3>
     <br>
     <br>
-    <i>Minor: Physics</i>
+    <h3><i>Minor: Physics</i></h3>
     <br>
     <br>
-    <i>Website: danielcoder.dev</i>
+    <h3><i>Website: danielcoder.dev</i></h3>
     <br>
     <br>
-    <i>Knowledge on Centering Divs: Unknown</i>
+    <h3><i>Knowledge on Centering Divs: Unknown</i></h3>
     <br>
     <br>
 </div>
