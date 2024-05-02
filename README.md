@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring programmer</h1> 
 <hr />
--*University: Northeastern University* 
--*Major: Computer Science* 
+- University: Northeastern University
+- Major: Computer Science
 -*Minor: Physics* 
 -*Website: danielcoder.dev*
 -*Knowledge on Centering Divs: Unknown* 
