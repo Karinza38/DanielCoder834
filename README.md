@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring computer science student </h3> 
-
+<h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring computer science student </h1> 
+<hr />
 <p align="center"> 
   <img src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
 </p>
