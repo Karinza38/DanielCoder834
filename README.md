@@ -2,15 +2,10 @@
 <hr />
 <div align="center"> 
     <h3><i>University: Northeastern University</i></h3>
-    <br>
     <h3><i>Major: Computer Science</i></h3>
-    <br>
     <h3><i>Minor: Physics</i></h3>
-    <br>
     <h3><i>Website: danielcoder.dev</i></h3>
-    <br>
     <h3><i>Knowledge on Centering Divs: Unknown</i></h3>
-    <br>
 </div>
 
   <p align="center">
