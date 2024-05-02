@@ -31,15 +31,15 @@
 </div>
 
 <hr>
-<p>
+<p align="center">
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
     </p>
-    <p>
+    <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoder834" alt="Top Langs">
         </p>
 
 <br>
-  <p>
+  <p align="center">
   <img src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">     
   </p>
 <hr />
