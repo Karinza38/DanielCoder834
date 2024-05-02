@@ -1,6 +1,9 @@
 <h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring programmer</h1> 
 <hr />
-<div style="display:flex;">
+<p align="right">
+ <img style="float: right;" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
+</p>
+<div>
  <ul>
   <li><i>University: Northeastern University</i></li>
   <li><i>Major: Computer Science</i></li>
@@ -9,7 +12,6 @@
   <li><i>Knowledge on Centering Divs: Unknown</i></li>
   
 </ul> 
-<img style="float: right;" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
 </div>
 <hr />
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
