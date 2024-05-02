@@ -5,9 +5,11 @@
   <p><i>Minor: Physics</i></p>
   <p><i>Website: danielcoder.dev</i></p>
   <p><i>Knowledge on Centering Divs: Unknown</i></p>
+  <br>
   <p align="right">
- <img style="float: right;" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
-</p>
+    <img style="float: right;" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
+  </p>
+  <br>
 <hr />
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoder834" alt="Top Langs">
