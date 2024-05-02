@@ -1,4 +1,5 @@
 <h3 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring computer science student </h3> 
+
 ![gif](https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a)
 <hr />
 <img src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
