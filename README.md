@@ -7,7 +7,7 @@
     <li><i>Website: danielcoder.dev</i></li>
     <li><i>Knowledge on Centering Divs: Unknown</i></li>
   </ul>
-    <img align="right" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
+    <img align="flex" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
 <hr />
 <br>
       
