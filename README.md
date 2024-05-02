@@ -9,7 +9,7 @@
     <h3><i>Knowledge on Centering Divs: Unknown</i></h3>
 </div>
 
-
+<br>
 
 <h1 align="center">Top 5 Projects</h2>
 <div align="center">
@@ -20,7 +20,7 @@
     <h3>React/TSX Personal Website</h3>
 </div>
 
-
+<br>
 
 <h1 align="center"> Projects In Progress </h2>
 <div align="center">
