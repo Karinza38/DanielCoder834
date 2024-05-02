@@ -9,6 +9,8 @@
     <h3><i>Knowledge on Centering Divs: Unknown</i></h3>
 </div>
 
+
+
 <h1 align="center">Top 5 Projects</h2>
 <div align="center">
     <h3>Rust + Crossterm Text Editor</h3>
@@ -17,6 +19,8 @@
     <h3>C Fuse Filesystem</h3>
     <h3>React/TSX Personal Website</h3>
 </div>
+
+
 
 <h1 align="center"> Projects In Progress </h2>
 <div align="center">
