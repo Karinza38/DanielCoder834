@@ -11,23 +11,19 @@
 
 ## Top 5 Projects
 <div align="center">
-    <ol>
-        <li>Rust + Crossterm Text Editor</li>
-        <li>Custom Clojure Database</li>
-        <li>NASM and Bochs Bootloader</li>
-        <li>C Fuse Filesystem</li>
-        <li>React/TSX Personal Website</li>
-    </ol>
+    <h3>Rust + Crossterm Text Editor</h3>
+    <h3>Custom Clojure Database</h3>
+    <h3>NASM and Bochs Bootloader</h3>
+    <h3>C Fuse Filesystem</h3>
+    <h3>React/TSX Personal Website</h3>
 </div>
 
 ## Projects In Progress 
 <div align="center">
-    <ul>
-        <li>Elixir Live Chat</li>
-        <li>Rust Browser Engine</li>
-        <li>React Notetaking App</li>
-        <li>React/TSX + Python + Golang Redis Cache => Stock Website</li>
-    </ul>
+    <h3>Elixir Live Chat</h3>
+    <h3>Rust Browser Engine</h3>
+    <h3>React Notetaking App</h3>
+    <h3>React/TSX + Python + Golang Redis Cache => Stock Website</h3>
 </div>
 
 <p align="center">
