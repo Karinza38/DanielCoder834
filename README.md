@@ -1,10 +1,12 @@
 <h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring programmer</h1> 
 <hr />
-  <p><i>University: Northeastern University</i></p>
-  <p><i>Major: Computer Science</i></p>
-  <p><i>Minor: Physics</i></p>
-  <p><i>Website: danielcoder.dev</i></p>
-  <p><i>Knowledge on Centering Divs: Unknown</i></p>
+  <ul>
+    <li><i>University: Northeastern University</i></li>
+    <li><i>Major: Computer Science</i></li>
+    <li><i>Minor: Physics</i><</li>
+    <li><i>Website: danielcoder.dev</i></li>
+    <li><i>Knowledge on Centering Divs: Unknown</i></li>
+  </ul>
   <p>
     <img align="right" src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">
   </p>
