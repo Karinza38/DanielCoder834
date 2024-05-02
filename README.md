@@ -9,6 +9,26 @@
     <h3><i>Knowledge on Centering Divs: Unknown</i></h3>
 </div>
 
+## Top 5 Projects
+<div align="center">
+    <ol>
+        <li>Rust + Crossterm Text Editor</li>
+        <li>Custom Clojure Database</li>
+        <li>NASM and Bochs Bootloader</li>
+        <li>C Fuse Filesystem</li>
+        <li>React/TSX Personal Website</li>
+    </ol>
+</div>
+
+## Projects In Progress 
+<div align="center">
+    <ul>
+        <li>Elixir Live Chat</li>
+        <li>Rust Browser Engine</li>
+        <li>React Notetaking App</li>
+        <li>React/TSX + Python + Golang Redis Cache => Stock Website</li>
+    </ul>
+</div>
 
 <p align="center">
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
