@@ -8,12 +8,7 @@
     <h3><i>Website: danielcoder.dev</i></h3>
     <h3><i>Knowledge on Centering Divs: Unknown</i></h3>
 </div>
-<br>
-  <p align="center">
-  <img src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">     
-  </p>
-<hr />
-<br>
+
 
 <p align="center">
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
@@ -21,6 +16,13 @@
     <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoder834" alt="Top Langs">
         </p>
+
+<br>
+  <p align="center">
+  <img src="https://github.com/DanielCoder834/DanielCoder834/assets/55712502/fd21e763-0166-4f97-b926-8d5c7c5d342a" alt="gif">     
+  </p>
+<hr />
+<br>
 <!--
 **DanielCoder834/DanielCoder834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. align = "right"
 
