@@ -13,9 +13,13 @@
   </p>
 <hr />
 <br>
-      
+
+<p align="center">
 <img width="75%" height="75%" src="https://github-readme-stats.vercel.app/api?username=DanielCoder834" alt="Daniel's GitHub stats">
+    </p>
+    <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCoder834" alt="Top Langs">
+        </p>
 <!--
 **DanielCoder834/DanielCoder834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. align = "right"
 
