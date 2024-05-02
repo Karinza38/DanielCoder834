@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring programmer</h1> 
 <hr />
-<div style="display: flex;">
+<div style="display: flex">
  <ul>
   <li><i>University: Northeastern University</i></li>
   <li><i>Major: Computer Science</i></li>
