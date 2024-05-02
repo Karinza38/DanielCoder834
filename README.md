@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there 👋. My name is Daniel, and I am an aspiring programmer</h1> 
+<h1 align="center"> Hi there 👋. 
+    My name is Daniel, and I am an aspiring programmer</h1> 
 <hr />
 <div align="center"> 
     <h3><i>University: Northeastern University</i></h3>
