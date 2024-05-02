@@ -3,13 +3,18 @@
 <div align="center"> 
     <i>University: Northeastern University</i>
     <br>
+    <br>
     <i>Major: Computer Science</i>
+    <br>
     <br>
     <i>Minor: Physics</i>
     <br>
+    <br>
     <i>Website: danielcoder.dev</i>
     <br>
+    <br>
     <i>Knowledge on Centering Divs: Unknown</i>
+    <br>
     <br>
 </div>
 
