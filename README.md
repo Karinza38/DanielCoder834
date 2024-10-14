@@ -6,7 +6,7 @@
     <h3><i>Major: Computer Science</i></h3>
     <h3><i>Minor: Physics</i></h3>
     <h3><i>Website: danielcoder.dev</i></h3>
-    <h3 align="left"><i>Knowledge on Centering Divs: Unknown</i></h3>
+    <h3><i>Tabs Over Spaces</i></h3>
 </div>
 
 <br>
